@@ -1,2 +1,0 @@
-Setups.py
-2_🌎_Nationality_Analysis.py
